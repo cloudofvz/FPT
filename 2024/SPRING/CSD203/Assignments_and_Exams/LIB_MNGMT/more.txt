@@ -1,0 +1,3 @@
+Em có làm thêm với data 200 cuốn sách được lấy và lọc từ dataset trên Kaggle và đẩy lên github https://github.com/sinhvienfpt/lib_mngmt
+mong thầy dành chút thời gian đánh giá giúp em. Em cảm ơn!
+
